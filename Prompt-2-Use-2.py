@@ -50,10 +50,8 @@ for i in range(len(numList)):
             totalAdditions += 1
     tempList.clear()
     total = 0      
-    
+
 print(max(subList, key=len)) if totalAdditions > 0 else None
-
-
 
 
 
