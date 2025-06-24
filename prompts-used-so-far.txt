@@ -1,2 +1,2 @@
 (5x) give me a mock interview problem for a junior programmer position
-(3x) give me a mock interview problem for a junior programmer position medium difficulty
+(4x) give me a mock interview problem for a junior programmer position medium difficulty
