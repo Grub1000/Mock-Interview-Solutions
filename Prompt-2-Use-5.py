@@ -1,4 +1,3 @@
-
 # 🧩 Problem: Inventory Management System
 # You are helping a small business automate its inventory management. The business wants to track the products they have in stock and be able to:
 # Add a new product.
@@ -65,4 +64,3 @@ inv.remove_product("p001")
 inv.list_products()
 
 # Expected output: [("p002", "Banana", 45)]
-
